@@ -6,5 +6,7 @@ void printHelloWorld(string name) {
 }
 
 int main() {
+	printHelloWorld("Sam Kimak");
+
 	return 0;
 }
