@@ -7,6 +7,6 @@ void printHelloWorld(string name) {
 
 int main() {
 	printHelloWorld("Sam Kimak");
-
+	printHelloWorld("Philip Maraldo");
 	return 0;
 }
