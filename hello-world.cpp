@@ -8,5 +8,6 @@ void printHelloWorld(string name) {
 int main() {
 	printHelloWorld("Sam Kimak");
 	printHelloWorld("Philip Maraldo");
+	printHelloWorld("Mike Baah");
 	return 0;
 }
