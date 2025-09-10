@@ -9,5 +9,6 @@ int main() {
 	printHelloWorld("Sam Kimak");
 	printHelloWorld("Philip Maraldo");
 	printHelloWorld("Mike Baah");
+	printHelloWorld("Brendan Roman");
 	return 0;
 }
