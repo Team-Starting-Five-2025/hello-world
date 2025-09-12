@@ -6,5 +6,10 @@ void printHelloWorld(string name) {
 }
 
 int main() {
+	printHelloWorld("Sam Kimak");
+	printHelloWorld("Philip Maraldo");
+	printHelloWorld("Mike Baah");
+	printHelloWorld("Brendan Roman");
+	printHelloWorld("John Giglio");
 	return 0;
 }
